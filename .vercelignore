@@ -1,0 +1,10 @@
+.git
+.vercel
+.vercel-build-tools
+node_modules
+tetris-engine/target
+src/generated
+dist
+test-results
+playwright-report
+artifacts
